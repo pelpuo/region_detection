@@ -1,0 +1,1256 @@
+Block: 10c38, Execution Count: 1, Execution Time: 140.0
+Successors: {'15cf8'}
+Predecessors: {'1392c'}
+
+Block: 15cf8, Execution Count: 0, Execution Time: 0
+Successors: {'END'}
+Predecessors: {'10c38'}
+
+Block: 13914, Execution Count: 3, Execution Time: 47.333333333333336
+Successors: {'138f8', '13924'}
+Predecessors: {'158b8'}
+
+Block: 13924, Execution Count: 1, Execution Time: 140.0
+Successors: {'1392c'}
+Predecessors: {'13914'}
+
+Block: 15900, Execution Count: 1, Execution Time: 139.0
+Successors: {'1587c'}
+Predecessors: {'14790'}
+
+Block: 1587c, Execution Count: 3, Execution Time: 74.66666666666667
+Successors: {'15898'}
+Predecessors: {'15870', '15900'}
+
+Block: 13220, Execution Count: 1, Execution Time: 130.0
+Successors: {'130d8'}
+Predecessors: {'131f8'}
+
+Block: 130d8, Execution Count: 1, Execution Time: 137.0
+Successors: {'14790'}
+Predecessors: {'13220'}
+
+Block: 1478c, Execution Count: 2, Execution Time: 199.0
+Successors: {'13014', '13cc0'}
+Predecessors: {'13cbc', '12ff8'}
+
+Block: 13014, Execution Count: 1, Execution Time: 138.0
+Successors: {'131f8'}
+Predecessors: {'1478c'}
+
+Block: 12ff8, Execution Count: 1, Execution Time: 137.0
+Successors: {'1478c'}
+Predecessors: {'12ff4'}
+
+Block: 127b8, Execution Count: 1, Execution Time: 130.0
+Successors: {'12764'}
+Predecessors: {'127b0'}
+
+Block: 12764, Execution Count: 4, Execution Time: 40.5
+Successors: {'15854', '13598'}
+Predecessors: {'12818', '127bc', '127b8'}
+
+Block: 138f8, Execution Count: 2, Execution Time: 89.5
+Successors: {'13900'}
+Predecessors: {'13914'}
+
+Block: 12c54, Execution Count: 3, Execution Time: 64.66666666666667
+Successors: {'158b8'}
+Predecessors: {'158b0'}
+
+Block: 158b8, Execution Count: 3, Execution Time: 47.333333333333336
+Successors: {'13914'}
+Predecessors: {'12c54'}
+
+Block: 15898, Execution Count: 3, Execution Time: 73.66666666666667
+Successors: {'158ac'}
+Predecessors: {'1587c'}
+
+Block: 158ac, Execution Count: 3, Execution Time: 59.333333333333336
+Successors: {'12c50'}
+Predecessors: {'15898'}
+
+Block: 157c0, Execution Count: 3, Execution Time: 57.0
+Successors: {'1586c'}
+Predecessors: {'157b8'}
+
+Block: 1586c, Execution Count: 3, Execution Time: 73.66666666666667
+Successors: {'15870'}
+Predecessors: {'157c0'}
+
+Block: 15ca0, Execution Count: 3, Execution Time: 73.0
+Successors: {'15cd0'}
+Predecessors: {'15794'}
+
+Block: 15cd0, Execution Count: 3, Execution Time: 47.66666666666666
+Successors: {'157b8'}
+Predecessors: {'15ca0'}
+
+Block: 1526c, Execution Count: 3, Execution Time: 74.66666666666667
+Successors: {'15794'}
+Predecessors: {'15860'}
+
+Block: 15794, Execution Count: 3, Execution Time: 71.66666666666667
+Successors: {'15ca0'}
+Predecessors: {'1526c'}
+
+Block: 14790, Execution Count: 2, Execution Time: 124.5
+Successors: {'15900', '14068'}
+Predecessors: {'14048', '130d8'}
+
+Block: 15854, Execution Count: 3, Execution Time: 47.333333333333336
+Successors: {'15860'}
+Predecessors: {'12764'}
+
+Block: 15860, Execution Count: 3, Execution Time: 66.66666666666667
+Successors: {'1526c'}
+Predecessors: {'15854'}
+
+Block: 12648, Execution Count: 4, Execution Time: 40.5
+Successors: {'12784', '12674'}
+Predecessors: {'15848', '128f0'}
+
+Block: 12674, Execution Count: 2, Execution Time: 89.5
+Successors: {'12810'}
+Predecessors: {'12648'}
+
+Block: 15818, Execution Count: 3, Execution Time: 57.0
+Successors: {'15820'}
+Predecessors: {'1580c'}
+
+Block: 15820, Execution Count: 3, Execution Time: 77.0
+Successors: {'15848'}
+Predecessors: {'15818'}
+
+Block: 12594, Execution Count: 1, Execution Time: 131.0
+Successors: {'10c28'}
+Predecessors: {'12588'}
+
+Block: 10c28, Execution Count: 1, Execution Time: 131.0
+Successors: {'10c34'}
+Predecessors: {'12594'}
+
+Block: 12588, Execution Count: 1, Execution Time: 131.0
+Successors: {'12594'}
+Predecessors: {'12604'}
+
+Block: 10150, Execution Count: 1, Execution Time: 131.0
+Successors: {'12cc4'}
+Predecessors: {'10124'}
+
+Block: 12cc4, Execution Count: 1, Execution Time: 132.0
+Successors: {'12cc8'}
+Predecessors: {'10150'}
+
+Block: 12cac, Execution Count: 1, Execution Time: 138.0
+Successors: {'1011c'}
+Predecessors: {'12c80'}
+
+Block: 1011c, Execution Count: 1, Execution Time: 138.0
+Successors: {'10124'}
+Predecessors: {'12cac'}
+
+Block: 125f4, Execution Count: 1, Execution Time: 137.0
+Successors: {'12c80'}
+Predecessors: {'125dc'}
+
+Block: 12c80, Execution Count: 1, Execution Time: 139.0
+Successors: {'12cac'}
+Predecessors: {'125f4'}
+
+Block: 125d8, Execution Count: 1, Execution Time: 137.0
+Successors: {'125dc'}
+Predecessors: {'12634'}
+
+Block: 125dc, Execution Count: 1, Execution Time: 102.0
+Successors: {'125f4'}
+Predecessors: {'125d8'}
+
+Block: 13910, Execution Count: 3, Execution Time: 73.0
+Successors: {'157f4'}
+Predecessors: {'13900'}
+
+Block: 157f4, Execution Count: 3, Execution Time: 77.33333333333333
+Successors: {'1580c'}
+Predecessors: {'13910'}
+
+Block: 12574, Execution Count: 1, Execution Time: 129.0
+Successors: {'125c4'}
+Predecessors: {'12558'}
+
+Block: 125c4, Execution Count: 1, Execution Time: 139.0
+Successors: {'12634'}
+Predecessors: {'12574'}
+
+Block: 12558, Execution Count: 1, Execution Time: 137.0
+Successors: {'12574'}
+Predecessors: {'12520'}
+
+Block: 10118, Execution Count: 1, Execution Time: 129.0
+Successors: {'10c10'}
+Predecessors: {'10b90'}
+
+Block: 10c10, Execution Count: 1, Execution Time: 102.0
+Successors: {'12520'}
+Predecessors: {'10118'}
+
+Block: 10b90, Execution Count: 1, Execution Time: 138.0
+Successors: {'10118'}
+Predecessors: {'10b80'}
+
+Block: 10ed8, Execution Count: 1, Execution Time: 130.0
+Successors: {'10b80'}
+Predecessors: {'10ed4'}
+
+Block: 10b80, Execution Count: 1, Execution Time: 130.0
+Successors: {'10b90'}
+Predecessors: {'10ed8'}
+
+Block: 13550, Execution Count: 1, Execution Time: 102.0
+Successors: {'10ed4'}
+Predecessors: {'13538'}
+
+Block: 10ed4, Execution Count: 1, Execution Time: 102.0
+Successors: {'10ed8'}
+Predecessors: {'13550'}
+
+Block: 13538, Execution Count: 2, Execution Time: 130.5
+Successors: {'13550', '134d4'}
+Predecessors: {'1352c', '13598'}
+
+Block: 127bc, Execution Count: 1, Execution Time: 137.0
+Successors: {'12764'}
+Predecessors: {'127dc'}
+
+Block: 1574c, Execution Count: 1, Execution Time: 102.0
+Successors: {'127dc'}
+Predecessors: {'15744'}
+
+Block: 127dc, Execution Count: 1, Execution Time: 102.0
+Successors: {'127bc'}
+Predecessors: {'1574c'}
+
+Block: 15f80, Execution Count: 1, Execution Time: 131.0
+Successors: {'15744'}
+Predecessors: {'15f58'}
+
+Block: 15744, Execution Count: 1, Execution Time: 130.0
+Successors: {'1574c'}
+Predecessors: {'15f80'}
+
+Block: 15f58, Execution Count: 1, Execution Time: 139.0
+Successors: {'15f80'}
+Predecessors: {'15714'}
+
+Block: 151b4, Execution Count: 1, Execution Time: 139.0
+Successors: {'15714'}
+Predecessors: {'1517c'}
+
+Block: 15714, Execution Count: 1, Execution Time: 138.0
+Successors: {'15f58'}
+Predecessors: {'151b4'}
+
+Block: 1517c, Execution Count: 1, Execution Time: 130.0
+Successors: {'151b4'}
+Predecessors: {'127c4'}
+
+Block: 127c4, Execution Count: 1, Execution Time: 103.0
+Successors: {'1517c'}
+Predecessors: {'127b0'}
+
+Block: 12784, Execution Count: 2, Execution Time: 89.5
+Successors: {'1278c'}
+Predecessors: {'12648'}
+
+Block: 1580c, Execution Count: 3, Execution Time: 76.0
+Successors: {'15818'}
+Predecessors: {'157f4'}
+
+Block: 128c0, Execution Count: 1, Execution Time: 102.0
+Successors: {'128f0'}
+Predecessors: {'128b8'}
+
+Block: 128f0, Execution Count: 1, Execution Time: 130.0
+Successors: {'12648'}
+Predecessors: {'128c0'}
+
+Block: 15848, Execution Count: 3, Execution Time: 75.66666666666667
+Successors: {'12648'}
+Predecessors: {'15820'}
+
+Block: 128a4, Execution Count: 1, Execution Time: 137.0
+Successors: {'128b8'}
+Predecessors: {'1358c'}
+
+Block: 128b8, Execution Count: 1, Execution Time: 129.0
+Successors: {'128c0'}
+Predecessors: {'128a4'}
+
+Block: 1352c, Execution Count: 2, Execution Time: 87.5
+Successors: {'1358c', '13538'}
+Predecessors: {'13754'}
+
+Block: 1358c, Execution Count: 1, Execution Time: 137.0
+Successors: {'128a4'}
+Predecessors: {'1352c'}
+
+Block: 146c8, Execution Count: 1, Execution Time: 139.0
+Successors: {'13754'}
+Predecessors: {'146ac'}
+
+Block: 13754, Execution Count: 2, Execution Time: 124.5
+Successors: {'1352c'}
+Predecessors: {'146c8', '14780'}
+
+Block: 146ac, Execution Count: 1, Execution Time: 102.0
+Successors: {'146c8'}
+Predecessors: {'146a0'}
+
+Block: 12520, Execution Count: 1, Execution Time: 129.0
+Successors: {'12558'}
+Predecessors: {'10c10'}
+
+Block: 134fc, Execution Count: 1, Execution Time: 102.0
+Successors: {'13508'}
+Predecessors: {'134e8'}
+
+Block: 13508, Execution Count: 2, Execution Time: 61.5
+Successors: {'13748'}
+Predecessors: {'134fc', '134e4'}
+
+Block: 134e8, Execution Count: 1, Execution Time: 130.0
+Successors: {'134fc'}
+Predecessors: {'134dc'}
+
+Block: 134dc, Execution Count: 2, Execution Time: 62.0
+Successors: {'134e8', '134e4'}
+Predecessors: {'137a8', '135dc'}
+
+Block: 13900, Execution Count: 3, Execution Time: 73.66666666666667
+Successors: {'13910'}
+Predecessors: {'138e0', '138f8'}
+
+Block: 125f8, Execution Count: 1, Execution Time: 103.0
+Successors: {'12604'}
+Predecessors: {'12cc8'}
+
+Block: 12604, Execution Count: 1, Execution Time: 138.0
+Successors: {'12588'}
+Predecessors: {'125f8'}
+
+Block: 135dc, Execution Count: 1, Execution Time: 137.0
+Successors: {'134dc'}
+Predecessors: {'135d8'}
+
+Block: 135d8, Execution Count: 2, Execution Time: 93.0
+Successors: {'137a8', '135dc'}
+Predecessors: {'144c4', '144e4'}
+
+Block: 144e4, Execution Count: 1, Execution Time: 137.0
+Successors: {'135d8'}
+Predecessors: {'144dc'}
+
+Block: 144dc, Execution Count: 1, Execution Time: 102.0
+Successors: {'144e4'}
+Predecessors: {'144cc'}
+
+Block: 10124, Execution Count: 1, Execution Time: 103.0
+Successors: {'10150'}
+Predecessors: {'1011c'}
+
+Block: 144b4, Execution Count: 2, Execution Time: 78.0
+Successors: {'144c0', '144e8'}
+Predecessors: {'14478'}
+
+Block: 144c0, Execution Count: 1, Execution Time: 129.0
+Successors: {'144cc'}
+Predecessors: {'144b4'}
+
+Block: 134d4, Execution Count: 1, Execution Time: 131.0
+Successors: {'135b8'}
+Predecessors: {'13538'}
+
+Block: 135b8, Execution Count: 2, Execution Time: 62.0
+Successors: {'135c8'}
+Predecessors: {'134d4', '134c4'}
+
+Block: 131f8, Execution Count: 1, Execution Time: 139.0
+Successors: {'13220'}
+Predecessors: {'13014'}
+
+Block: 146a4, Execution Count: 1, Execution Time: 103.0
+Successors: {'14780'}
+Predecessors: {'14754'}
+
+Block: 14780, Execution Count: 1, Execution Time: 138.0
+Successors: {'13754'}
+Predecessors: {'146a4'}
+
+Block: 14754, Execution Count: 1, Execution Time: 103.0
+Successors: {'146a4'}
+Predecessors: {'14738'}
+
+Block: 1472c, Execution Count: 1, Execution Time: 130.0
+Successors: {'14738'}
+Predecessors: {'1471c'}
+
+Block: 14738, Execution Count: 1, Execution Time: 138.0
+Successors: {'14754'}
+Predecessors: {'1472c'}
+
+Block: 1471c, Execution Count: 1, Execution Time: 103.0
+Successors: {'1472c'}
+Predecessors: {'146d8'}
+
+Block: 146d8, Execution Count: 1, Execution Time: 132.0
+Successors: {'1471c'}
+Predecessors: {'146cc'}
+
+Block: 12c50, Execution Count: 3, Execution Time: 56.333333333333336
+Successors: {'158b0'}
+Predecessors: {'158ac'}
+
+Block: 146cc, Execution Count: 1, Execution Time: 138.0
+Successors: {'146d8'}
+Predecessors: {'14698'}
+
+Block: 14698, Execution Count: 2, Execution Time: 87.5
+Successors: {'146cc', '146a0'}
+Predecessors: {'14670'}
+
+Block: 12ff4, Execution Count: 1, Execution Time: 130.0
+Successors: {'12ff8'}
+Predecessors: {'158f4'}
+
+Block: 14670, Execution Count: 2, Execution Time: 87.5
+Successors: {'14698'}
+Predecessors: {'1466c'}
+
+Block: 13748, Execution Count: 2, Execution Time: 90.0
+Successors: {'1466c'}
+Predecessors: {'13508'}
+
+Block: 137a8, Execution Count: 1, Execution Time: 104.0
+Successors: {'134dc'}
+Predecessors: {'135d8'}
+
+Block: 144c4, Execution Count: 1, Execution Time: 136.0
+Successors: {'135d8'}
+Predecessors: {'1454c'}
+
+Block: 1454c, Execution Count: 1, Execution Time: 136.0
+Successors: {'144c4'}
+Predecessors: {'14548'}
+
+Block: 1392c, Execution Count: 1, Execution Time: 140.0
+Successors: {'10c38'}
+Predecessors: {'13924'}
+
+Block: 1453c, Execution Count: 6, Execution Time: 38.5
+Successors: {'14548', '14520'}
+Predecessors: {'144e8', '14520'}
+
+Block: 14548, Execution Count: 1, Execution Time: 132.0
+Successors: {'1454c'}
+Predecessors: {'1453c'}
+
+Block: 14520, Execution Count: 5, Execution Time: 43.8
+Successors: {'1453c'}
+Predecessors: {'1453c'}
+
+Block: 144e8, Execution Count: 1, Execution Time: 139.0
+Successors: {'1453c'}
+Predecessors: {'144b4'}
+
+Block: 135c8, Execution Count: 2, Execution Time: 90.5
+Successors: {'14478'}
+Predecessors: {'135b8'}
+
+Block: 14478, Execution Count: 2, Execution Time: 88.0
+Successors: {'144b4'}
+Predecessors: {'135c8'}
+
+Block: 134c4, Execution Count: 1, Execution Time: 132.0
+Successors: {'135b8'}
+Predecessors: {'1341c'}
+
+Block: 1341c, Execution Count: 1, Execution Time: 104.0
+Successors: {'134c4'}
+Predecessors: {'1340c'}
+
+Block: 1340c, Execution Count: 1, Execution Time: 131.0
+Successors: {'1341c'}
+Predecessors: {'13408'}
+
+Block: 123f8, Execution Count: 1, Execution Time: 135.0
+Successors: {'12410'}
+Predecessors: {'12464'}
+
+Block: 12410, Execution Count: 1, Execution Time: 138.0
+Successors: {'13408'}
+Predecessors: {'123f8'}
+
+Block: 12464, Execution Count: 1, Execution Time: 138.0
+Successors: {'123f8'}
+Predecessors: {'13b84'}
+
+Block: 10754, Execution Count: 424, Execution Time: 20.5872641509434
+Successors: {'1076c'}
+Predecessors: {'102c0'}
+
+Block: 1076c, Execution Count: 424, Execution Time: 45.15094339622642
+Successors: {'10588', '1078c'}
+Predecessors: {'10754'}
+
+Block: 1073c, Execution Count: 424, Execution Time: 46.21933962264151
+Successors: {'10224'}
+Predecessors: {'10190'}
+
+Block: 10224, Execution Count: 2544, Execution Time: 42.21187106918239
+Successors: {'102b4'}
+Predecessors: {'1073c', '105f8', '105c0', '10630', '106b4', '106a4'}
+
+Block: 13408, Execution Count: 1, Execution Time: 197.0
+Successors: {'1340c'}
+Predecessors: {'12410'}
+
+Block: 102c0, Execution Count: 2544, Execution Time: 48.80149371069182
+Successors: {'10610', '105d8', '10648', '10754', '106c8', '106b4'}
+Predecessors: {'102a8', '1028c'}
+
+Block: 12938, Execution Count: 1, Execution Time: 103.0
+Successors: {'10d60'}
+Predecessors: {'12c4c'}
+
+Block: 10d60, Execution Count: 4, Execution Time: 73.5
+Successors: {'10d9c', '10d6c'}
+Predecessors: {'12a20', '129b4', '100cc', '12938'}
+
+Block: 13cd0, Execution Count: 1, Execution Time: 140.0
+Successors: {'13cd8'}
+Predecessors: {'13cc8'}
+
+Block: 13cd8, Execution Count: 1, Execution Time: 132.0
+Successors: {'13ef0'}
+Predecessors: {'13cd0'}
+
+Block: 10190, Execution Count: 4240, Execution Time: 29.68820754716981
+Successors: {'1073c', '105f8', '1033c', '105c0', '10310', '10630'}
+Predecessors: {'10610', '105d8', '10588', '10310', '102d4', '1071c'}
+
+Block: 106a4, Execution Count: 424, Execution Time: 20.19811320754717
+Successors: {'10224'}
+Predecessors: {'10674'}
+
+Block: 1033c, Execution Count: 1272, Execution Time: 27.82232704402516
+Successors: {'10368'}
+Predecessors: {'10190'}
+
+Block: 10368, Execution Count: 1272, Execution Time: 31.187106918238992
+Successors: {'1071c', '106e4', '10700'}
+Predecessors: {'1033c'}
+
+Block: 10dcc, Execution Count: 4, Execution Time: 134.75
+Successors: {'10e24', '129b4', '12a6c', '12a20'}
+Predecessors: {'10e10', '10d9c'}
+
+Block: 12a20, Execution Count: 1, Execution Time: 103.0
+Successors: {'10d60'}
+Predecessors: {'10dcc'}
+
+Block: 10648, Execution Count: 424, Execution Time: 65.50471698113208
+Successors: {'10420'}
+Predecessors: {'102c0'}
+
+Block: 10420, Execution Count: 424, Execution Time: 43.12264150943396
+Successors: {'104c8'}
+Predecessors: {'10648'}
+
+Block: 1016c, Execution Count: 1, Execution Time: 132.0
+Successors: {'1018c'}
+Predecessors: {'10d34'}
+
+Block: 1018c, Execution Count: 1, Execution Time: 136.0
+Successors: {'10d44'}
+Predecessors: {'1016c'}
+
+Block: 158f4, Execution Count: 1, Execution Time: 129.0
+Successors: {'12ff4'}
+Predecessors: {'15870'}
+
+Block: 158b0, Execution Count: 3, Execution Time: 56.333333333333336
+Successors: {'12c54'}
+Predecessors: {'12c50'}
+
+Block: 106b4, Execution Count: 424, Execution Time: 42.4245283018868
+Successors: {'10224'}
+Predecessors: {'102c0'}
+
+Block: 13598, Execution Count: 1, Execution Time: 102.0
+Successors: {'13538'}
+Predecessors: {'12764'}
+
+Block: 10f0c, Execution Count: 1, Execution Time: 139.0
+Successors: {'10e3c'}
+Predecessors: {'10b74'}
+
+Block: 10e3c, Execution Count: 1, Execution Time: 132.0
+Successors: {'10f18'}
+Predecessors: {'10f0c'}
+
+Block: 146a0, Execution Count: 1, Execution Time: 137.0
+Successors: {'146ac'}
+Predecessors: {'14698'}
+
+Block: 104d0, Execution Count: 424, Execution Time: 20.19811320754717
+Successors: {'10674'}
+Predecessors: {'10490'}
+
+Block: 10674, Execution Count: 424, Execution Time: 44.20754716981132
+Successors: {'106a4'}
+Predecessors: {'104d0'}
+
+Block: 104c8, Execution Count: 16112, Execution Time: 22.179865938430986
+Successors: {'1045c'}
+Predecessors: {'10420', '10474'}
+
+Block: 138e0, Execution Count: 1, Execution Time: 134.0
+Successors: {'13900'}
+Predecessors: {'1388c'}
+
+Block: 14d0c, Execution Count: 2, Execution Time: 90.5
+Successors: {'15ebc'}
+Predecessors: {'13d98', '14290'}
+
+Block: 15ebc, Execution Count: 2, Execution Time: 75.5
+Successors: {'15efc', '15ed0'}
+Predecessors: {'14d0c'}
+
+Block: 1045c, Execution Count: 27136, Execution Time: 23.10336821933962
+Successors: {'10474', '10490'}
+Predecessors: {'104c8', '10490'}
+
+Block: 10d44, Execution Count: 2, Execution Time: 20.0
+Successors: {'10d48', '10d34'}
+Predecessors: {'1018c', '100c8'}
+
+Block: 10d34, Execution Count: 1, Execution Time: 114.0
+Successors: {'1016c'}
+Predecessors: {'10d44'}
+
+Block: 10b74, Execution Count: 1, Execution Time: 139.0
+Successors: {'10f0c'}
+Predecessors: {'10b6c'}
+
+Block: 13a38, Execution Count: 1, Execution Time: 104.0
+Successors: {'15910'}
+Predecessors: {'13a10'}
+
+Block: 15910, Execution Count: 1, Execution Time: 133.0
+Successors: {'15d3c'}
+Predecessors: {'13a38'}
+
+Block: 1278c, Execution Count: 2, Execution Time: 61.0
+Successors: {'127b0'}
+Predecessors: {'12784'}
+
+Block: 127b0, Execution Count: 2, Execution Time: 89.5
+Successors: {'127c4', '127b8'}
+Predecessors: {'1278c'}
+
+Block: 10d6c, Execution Count: 1, Execution Time: 59.0
+Successors: {'10e10'}
+Predecessors: {'10d60'}
+
+Block: 129b4, Execution Count: 1, Execution Time: 103.0
+Successors: {'10d60'}
+Predecessors: {'10dcc'}
+
+Block: 10610, Execution Count: 424, Execution Time: 45.070754716981135
+Successors: {'10190'}
+Predecessors: {'102c0'}
+
+Block: 1466c, Execution Count: 2, Execution Time: 90.5
+Successors: {'14670'}
+Predecessors: {'13748'}
+
+Block: 15c04, Execution Count: 1, Execution Time: 57.0
+Successors: {'15c10'}
+Predecessors: {'15c60'}
+
+Block: 15c10, Execution Count: 1, Execution Time: 55.0
+Successors: {'15c40'}
+Predecessors: {'15c04'}
+
+Block: 102a8, Execution Count: 90312, Execution Time: 21.626782708831605
+Successors: {'10248', '102c0'}
+Predecessors: {'10248'}
+
+Block: 12a6c, Execution Count: 1, Execution Time: 103.0
+Successors: {'10efc'}
+Predecessors: {'10dcc'}
+
+Block: 10b54, Execution Count: 1, Execution Time: 138.0
+Successors: {'10538'}
+Predecessors: {'1051c'}
+
+Block: 10538, Execution Count: 1, Execution Time: 131.0
+Successors: {'10568'}
+Predecessors: {'10b54'}
+
+Block: 105d8, Execution Count: 424, Execution Time: 20.19575471698113
+Successors: {'10190'}
+Predecessors: {'102c0'}
+
+Block: 134e4, Execution Count: 1, Execution Time: 131.0
+Successors: {'13508'}
+Predecessors: {'134dc'}
+
+Block: 10568, Execution Count: 2, Execution Time: 62.0
+Successors: {'10778'}
+Predecessors: {'104f8', '10538'}
+
+Block: 123cc, Execution Count: 1, Execution Time: 132.0
+Successors: {'123d4'}
+Predecessors: {'123ac'}
+
+Block: 123d4, Execution Count: 1, Execution Time: 141.0
+Successors: {'123e8'}
+Predecessors: {'123cc'}
+
+Block: 1028c, Execution Count: 72504, Execution Time: 21.97798742138365
+Successors: {'10248', '102c0'}
+Predecessors: {'10248'}
+
+Block: 13b58, Execution Count: 1, Execution Time: 140.0
+Successors: {'13b84'}
+Predecessors: {'13b50'}
+
+Block: 13b84, Execution Count: 1, Execution Time: 103.0
+Successors: {'12464'}
+Predecessors: {'13b58'}
+
+Block: 102b4, Execution Count: 2544, Execution Time: 51.15526729559748
+Successors: {'10248'}
+Predecessors: {'10224'}
+
+Block: 10248, Execution Count: 162816, Execution Time: 21.2153903793239
+Successors: {'102a8', '1028c'}
+Predecessors: {'102a8', '102b4', '1028c'}
+
+Block: 1078c, Execution Count: 2, Execution Time: 178.0
+Successors: {'10550', '1051c'}
+Predecessors: {'1076c'}
+
+Block: 10550, Execution Count: 1, Execution Time: 103.0
+Successors: {'10b58'}
+Predecessors: {'1078c'}
+
+Block: 10630, Execution Count: 424, Execution Time: 40.16981132075472
+Successors: {'10224'}
+Predecessors: {'10190'}
+
+Block: 105f8, Execution Count: 424, Execution Time: 42.22641509433962
+Successors: {'10224'}
+Predecessors: {'10190'}
+
+Block: 100cc, Execution Count: 1, Execution Time: 80.0
+Successors: {'10d60'}
+Predecessors: {'START'}
+
+Block: 15c60, Execution Count: 1, Execution Time: 20.0
+Successors: {'15c04'}
+Predecessors: {'15bf8'}
+
+Block: 10fb8, Execution Count: 1, Execution Time: 162.0
+Successors: {'10e5c'}
+Predecessors: {'10f48'}
+
+Block: 10e5c, Execution Count: 1, Execution Time: 131.0
+Successors: {'10ef0'}
+Predecessors: {'10fb8'}
+
+Block: 10490, Execution Count: 11448, Execution Time: 20.87368972746331
+Successors: {'1045c', '104d0'}
+Predecessors: {'1045c'}
+
+Block: 10700, Execution Count: 424, Execution Time: 44.22877358490566
+Successors: {'102d4'}
+Predecessors: {'10368'}
+
+Block: 102d4, Execution Count: 1272, Execution Time: 27.48506289308176
+Successors: {'10190'}
+Predecessors: {'106e4', '106c8', '10700'}
+
+Block: 12cc8, Execution Count: 1, Execution Time: 103.0
+Successors: {'125f8'}
+Predecessors: {'12cc4'}
+
+Block: 14340, Execution Count: 1, Execution Time: 104.0
+Successors: {'13e88'}
+Predecessors: {'13e30'}
+
+Block: 13e88, Execution Count: 1, Execution Time: 104.0
+Successors: {'13e90'}
+Predecessors: {'14340'}
+
+Block: 100ec, Execution Count: 1, Execution Time: 20.0
+Successors: {'100f8'}
+Predecessors: {'10d98'}
+
+Block: 100f8, Execution Count: 1, Execution Time: 55.0
+Successors: {'15780'}
+Predecessors: {'100ec'}
+
+Block: 10588, Execution Count: 424, Execution Time: 78.57783018867924
+Successors: {'10190'}
+Predecessors: {'1076c', '10778'}
+
+Block: 10c34, Execution Count: 1, Execution Time: 103.0
+Successors: {'1292c'}
+Predecessors: {'10c28'}
+
+Block: 1292c, Execution Count: 1, Execution Time: 103.0
+Successors: {'1388c'}
+Predecessors: {'10c34'}
+
+Block: 14338, Execution Count: 1, Execution Time: 140.0
+Successors: {'13de4'}
+Predecessors: {'13dcc'}
+
+Block: 13de4, Execution Count: 1, Execution Time: 140.0
+Successors: {'14290'}
+Predecessors: {'14338'}
+
+Block: 10d84, Execution Count: 11, Execution Time: 23.181818181818183
+Successors: {'10d94', '10d84'}
+Predecessors: {'10d78', '10d84'}
+
+Block: 10d94, Execution Count: 1, Execution Time: 57.0
+Successors: {'10d98'}
+Predecessors: {'10d84'}
+
+Block: 10b6c, Execution Count: 1, Execution Time: 136.0
+Successors: {'10b74'}
+Predecessors: {'107e4'}
+
+Block: 15780, Execution Count: 1, Execution Time: 57.0
+Successors: {'15bf8'}
+Predecessors: {'100f8'}
+
+Block: 157b8, Execution Count: 3, Execution Time: 47.66666666666666
+Successors: {'157c0'}
+Predecessors: {'15cd0'}
+
+Block: 1051c, Execution Count: 1, Execution Time: 132.0
+Successors: {'10b54'}
+Predecessors: {'1078c'}
+
+Block: 13ae0, Execution Count: 1, Execution Time: 132.0
+Successors: {'13b30'}
+Predecessors: {'12458'}
+
+Block: 13b30, Execution Count: 1, Execution Time: 104.0
+Successors: {'13a10'}
+Predecessors: {'13ae0'}
+
+Block: 10d78, Execution Count: 1, Execution Time: 52.0
+Successors: {'10d84'}
+Predecessors: {'10d74'}
+
+Block: 12634, Execution Count: 1, Execution Time: 131.0
+Successors: {'125d8'}
+Predecessors: {'125c4'}
+
+Block: 13d50, Execution Count: 1, Execution Time: 103.0
+Successors: {'13d6c'}
+Predecessors: {'13d3c'}
+
+Block: 13d6c, Execution Count: 1, Execution Time: 131.0
+Successors: {'1426c'}
+Predecessors: {'13d50'}
+
+Block: 10e10, Execution Count: 1, Execution Time: 55.0
+Successors: {'10dcc'}
+Predecessors: {'10d6c'}
+
+Block: 1388c, Execution Count: 1, Execution Time: 139.0
+Successors: {'138e0'}
+Predecessors: {'1292c'}
+
+Block: 10cc4, Execution Count: 1, Execution Time: 57.0
+Successors: {'10d10'}
+Predecessors: {'10104'}
+
+Block: 10d10, Execution Count: 1, Execution Time: 55.0
+Successors: {'10d2c'}
+Predecessors: {'10cc4'}
+
+Block: 14068, Execution Count: 1, Execution Time: 131.0
+Successors: {'13eb0'}
+Predecessors: {'14790'}
+
+Block: 13eb0, Execution Count: 1, Execution Time: 138.0
+Successors: {'13b50'}
+Predecessors: {'14068'}
+
+Block: 10e24, Execution Count: 1, Execution Time: 20.0
+Successors: {'10e38'}
+Predecessors: {'10dcc'}
+
+Block: 106e4, Execution Count: 424, Execution Time: 39.22877358490566
+Successors: {'102d4'}
+Predecessors: {'10368'}
+
+Block: 15c40, Execution Count: 1, Execution Time: 20.0
+Successors: {'10104'}
+Predecessors: {'15c10'}
+
+Block: 10104, Execution Count: 1, Execution Time: 20.0
+Successors: {'10cc4'}
+Predecessors: {'15c40'}
+
+Block: 10f2c, Execution Count: 6, Execution Time: 34.0
+Successors: {'10f48', '10f2c'}
+Predecessors: {'10f2c', '10f24'}
+
+Block: 10f48, Execution Count: 1, Execution Time: 132.0
+Successors: {'10fb8'}
+Predecessors: {'10f2c'}
+
+Block: START, Execution Count: 0, Execution Time: 0
+Successors: {'100cc'}
+Predecessors: set()
+
+Block: 123e8, Execution Count: 1, Execution Time: 133.0
+Successors: {'1244c'}
+Predecessors: {'123d4'}
+
+Block: 1244c, Execution Count: 1, Execution Time: 136.0
+Successors: {'12458'}
+Predecessors: {'123e8'}
+
+Block: 13b40, Execution Count: 1, Execution Time: 138.0
+Successors: {'13c00'}
+Predecessors: {'13a44'}
+
+Block: 13c00, Execution Count: 1, Execution Time: 138.0
+Successors: {'13ca8'}
+Predecessors: {'13b40'}
+
+Block: 142ac, Execution Count: 1, Execution Time: 136.0
+Successors: {'142b8'}
+Predecessors: {'14d38'}
+
+Block: 142b8, Execution Count: 1, Execution Time: 139.0
+Successors: {'13e30'}
+Predecessors: {'142ac'}
+
+Block: 10e38, Execution Count: 1, Execution Time: 55.0
+Successors: {'10d74'}
+Predecessors: {'10e24'}
+
+Block: 10474, Execution Count: 15688, Execution Time: 24.40572412034676
+Successors: {'104c8'}
+Predecessors: {'1045c'}
+
+Block: 15bf8, Execution Count: 1, Execution Time: 57.0
+Successors: {'15c60'}
+Predecessors: {'15780'}
+
+Block: 12c4c, Execution Count: 1, Execution Time: 138.0
+Successors: {'12938'}
+Predecessors: {'12c40'}
+
+Block: 10b58, Execution Count: 1, Execution Time: 103.0
+Successors: {'107e4'}
+Predecessors: {'10550'}
+
+Block: 15870, Execution Count: 3, Execution Time: 47.66666666666666
+Successors: {'1587c', '158f4'}
+Predecessors: {'1586c'}
+
+Block: 13cc0, Execution Count: 1, Execution Time: 199.0
+Successors: {'13cc8'}
+Predecessors: {'1478c'}
+
+Block: 10d74, Execution Count: 1, Execution Time: 55.0
+Successors: {'10d78'}
+Predecessors: {'10e38'}
+
+Block: 10108, Execution Count: 1, Execution Time: 139.0
+Successors: {'10b38'}
+Predecessors: {'10d48'}
+
+Block: 10b38, Execution Count: 1, Execution Time: 139.0
+Successors: {'107a4'}
+Predecessors: {'10108'}
+
+Block: 13ef0, Execution Count: 1, Execution Time: 104.0
+Successors: {'13d3c'}
+Predecessors: {'13cd8'}
+
+Block: 13d3c, Execution Count: 1, Execution Time: 131.0
+Successors: {'13d50'}
+Predecessors: {'13ef0'}
+
+Block: 105c0, Execution Count: 424, Execution Time: 46.985849056603776
+Successors: {'10224'}
+Predecessors: {'10190'}
+
+Block: 1071c, Execution Count: 424, Execution Time: 44.20518867924528
+Successors: {'10190'}
+Predecessors: {'10368'}
+
+Block: 10f24, Execution Count: 1, Execution Time: 133.0
+Successors: {'10f2c'}
+Predecessors: {'10f18'}
+
+Block: 12810, Execution Count: 2, Execution Time: 87.0
+Successors: {'12818'}
+Predecessors: {'12674'}
+
+Block: 10310, Execution Count: 1272, Execution Time: 20.279088050314467
+Successors: {'10190'}
+Predecessors: {'10190'}
+
+Block: 14048, Execution Count: 1, Execution Time: 131.0
+Successors: {'14790'}
+Predecessors: {'141ec'}
+
+Block: 12818, Execution Count: 2, Execution Time: 61.0
+Successors: {'12764'}
+Predecessors: {'12810'}
+
+Block: 10d98, Execution Count: 1, Execution Time: 59.0
+Successors: {'100ec'}
+Predecessors: {'10d94'}
+
+Block: 15d74, Execution Count: 2, Execution Time: 132.5
+Successors: {'15fa8'}
+Predecessors: {'15d3c'}
+
+Block: 15fa8, Execution Count: 2, Execution Time: 131.5
+Successors: {'15d84'}
+Predecessors: {'15d74'}
+
+Block: 13e90, Execution Count: 1, Execution Time: 139.0
+Successors: {'13e9c'}
+Predecessors: {'13e88'}
+
+Block: 15efc, Execution Count: 1, Execution Time: 132.0
+Successors: {'15f28'}
+Predecessors: {'15ebc'}
+
+Block: 10ea8, Execution Count: 1, Execution Time: 103.0
+Successors: {'1331c'}
+Predecessors: {'10e9c'}
+
+Block: 1331c, Execution Count: 1, Execution Time: 103.0
+Successors: {'13324'}
+Predecessors: {'10ea8'}
+
+Block: 10d2c, Execution Count: 1, Execution Time: 52.0
+Successors: {'100b0'}
+Predecessors: {'10d10'}
+
+Block: 14d38, Execution Count: 2, Execution Time: 88.0
+Successors: {'13da4', '142ac'}
+Predecessors: {'14d30'}
+
+Block: 100b0, Execution Count: 1, Execution Time: 20.0
+Successors: {'100c8'}
+Predecessors: {'10d2c'}
+
+Block: 15d84, Execution Count: 2, Execution Time: 124.5
+Successors: {'1593c'}
+Predecessors: {'15fa8'}
+
+Block: 1593c, Execution Count: 1, Execution Time: 131.0
+Successors: {'15944'}
+Predecessors: {'15d84'}
+
+Block: 106c8, Execution Count: 424, Execution Time: 45.30424528301887
+Successors: {'102d4'}
+Predecessors: {'102c0'}
+
+Block: 14d30, Execution Count: 2, Execution Time: 61.5
+Successors: {'14d38'}
+Predecessors: {'15f28'}
+
+Block: 100c8, Execution Count: 1, Execution Time: 57.0
+Successors: {'10d44'}
+Predecessors: {'100b0'}
+
+Block: 10778, Execution Count: 2, Execution Time: 90.5
+Successors: {'10588'}
+Predecessors: {'10568'}
+
+Block: 10d48, Execution Count: 1, Execution Time: 104.0
+Successors: {'10108'}
+Predecessors: {'10d44'}
+
+Block: 12458, Execution Count: 1, Execution Time: 139.0
+Successors: {'13ae0'}
+Predecessors: {'1244c'}
+
+Block: 107a4, Execution Count: 1, Execution Time: 139.0
+Successors: {'10b4c'}
+Predecessors: {'10b38'}
+
+Block: 14290, Execution Count: 1, Execution Time: 139.0
+Successors: {'14d0c'}
+Predecessors: {'13de4'}
+
+Block: 15d3c, Execution Count: 2, Execution Time: 131.5
+Successors: {'15d74'}
+Predecessors: {'15910'}
+
+Block: 10b4c, Execution Count: 1, Execution Time: 139.0
+Successors: {'104f8'}
+Predecessors: {'107a4'}
+
+Block: 1426c, Execution Count: 1, Execution Time: 103.0
+Successors: {'13d98'}
+Predecessors: {'13d6c'}
+
+Block: 13d98, Execution Count: 1, Execution Time: 103.0
+Successors: {'14d0c'}
+Predecessors: {'1426c'}
+
+Block: 10f18, Execution Count: 1, Execution Time: 131.0
+Successors: {'10f24'}
+Predecessors: {'10e3c'}
+
+Block: 144cc, Execution Count: 1, Execution Time: 102.0
+Successors: {'144dc'}
+Predecessors: {'144c0'}
+
+Block: 104f8, Execution Count: 1, Execution Time: 131.0
+Successors: {'10568'}
+Predecessors: {'10b4c'}
+
+Block: 107e4, Execution Count: 1, Execution Time: 193.0
+Successors: {'10b6c'}
+Predecessors: {'10b58'}
+
+Block: 10ef0, Execution Count: 1, Execution Time: 103.0
+Successors: {'12c40'}
+Predecessors: {'10e5c'}
+
+Block: 12c40, Execution Count: 1, Execution Time: 103.0
+Successors: {'12c4c'}
+Predecessors: {'10ef0'}
+
+Block: END, Execution Count: 0, Execution Time: 0
+Successors: set()
+Predecessors: {'15cf8'}
+
+Block: 15ed0, Execution Count: 1, Execution Time: 131.0
+Successors: {'15ef8'}
+Predecessors: {'15ebc'}
+
+Block: 15ef8, Execution Count: 1, Execution Time: 131.0
+Successors: {'15f28'}
+Predecessors: {'15ed0'}
+
+Block: 10d9c, Execution Count: 3, Execution Time: 59.333333333333336
+Successors: {'10dcc'}
+Predecessors: {'10d60'}
+
+Block: 10efc, Execution Count: 1, Execution Time: 103.0
+Successors: {'10e9c'}
+Predecessors: {'12a6c'}
+
+Block: 10e9c, Execution Count: 1, Execution Time: 103.0
+Successors: {'10ea8'}
+Predecessors: {'10efc'}
+
+Block: 13324, Execution Count: 1, Execution Time: 138.0
+Successors: {'13370'}
+Predecessors: {'1331c'}
+
+Block: 13370, Execution Count: 1, Execution Time: 131.0
+Successors: {'133fc'}
+Predecessors: {'13324'}
+
+Block: 133fc, Execution Count: 1, Execution Time: 104.0
+Successors: {'123ac'}
+Predecessors: {'13370'}
+
+Block: 123ac, Execution Count: 1, Execution Time: 139.0
+Successors: {'123cc'}
+Predecessors: {'133fc'}
+
+Block: 141ec, Execution Count: 1, Execution Time: 103.0
+Successors: {'14048'}
+Predecessors: {'141e0'}
+
+Block: 13a10, Execution Count: 1, Execution Time: 132.0
+Successors: {'13a38'}
+Predecessors: {'13b30'}
+
+Block: 13ca8, Execution Count: 1, Execution Time: 130.0
+Successors: {'13cb8'}
+Predecessors: {'13c00'}
+
+Block: 13cb8, Execution Count: 1, Execution Time: 103.0
+Successors: {'13cbc'}
+Predecessors: {'13ca8'}
+
+Block: 13e30, Execution Count: 1, Execution Time: 132.0
+Successors: {'14340'}
+Predecessors: {'142b8'}
+
+Block: 13cbc, Execution Count: 1, Execution Time: 138.0
+Successors: {'1478c'}
+Predecessors: {'13cb8'}
+
+Block: 15944, Execution Count: 1, Execution Time: 103.0
+Successors: {'13a40'}
+Predecessors: {'1593c'}
+
+Block: 13a40, Execution Count: 1, Execution Time: 103.0
+Successors: {'13a44'}
+Predecessors: {'15944'}
+
+Block: 13e9c, Execution Count: 1, Execution Time: 132.0
+Successors: {'141e0'}
+Predecessors: {'13e90'}
+
+Block: 13a44, Execution Count: 1, Execution Time: 138.0
+Successors: {'13b40'}
+Predecessors: {'13a40'}
+
+Block: 13db0, Execution Count: 1, Execution Time: 103.0
+Successors: {'13db4'}
+Predecessors: {'13da4'}
+
+Block: 13db4, Execution Count: 1, Execution Time: 132.0
+Successors: {'13dcc'}
+Predecessors: {'13db0'}
+
+Block: 141e0, Execution Count: 1, Execution Time: 131.0
+Successors: {'141ec'}
+Predecessors: {'13e9c'}
+
+Block: 13cc8, Execution Count: 1, Execution Time: 133.0
+Successors: {'13cd0'}
+Predecessors: {'13cc0'}
+
+Block: 15f28, Execution Count: 2, Execution Time: 61.5
+Successors: {'14d30'}
+Predecessors: {'15efc', '15ef8'}
+
+Block: 13da4, Execution Count: 1, Execution Time: 131.0
+Successors: {'13db0'}
+Predecessors: {'14d38'}
+
+Block: 13dcc, Execution Count: 1, Execution Time: 135.0
+Successors: {'14338'}
+Predecessors: {'13db4'}
+
+Block: 13b50, Execution Count: 1, Execution Time: 138.0
+Successors: {'13b58'}
+Predecessors: {'13eb0'}
+
